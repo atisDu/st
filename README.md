@@ -1,4 +1,4 @@
-# Atis's build  of st - the simple (suckless) terminal
+# Atis' build  of st - the simple (suckless) terminal
 
 A modified build of Luke Smith's [suckless terminal (st)](https://st.suckless.org/) build with some additional
 features that make it literally the best terminal emulator ever:
